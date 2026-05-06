@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/anime_reco
-    username: postgres
-    password: 1124
+    url: postgresql://dpg-d7tjt6i8qa3s73c74p2g-a.oregon-postgres.render.com:5432/animeflix
+    username: postgresql
+    password: jcsucJj3ahL2TiWNZE93tNEfqrXhkWhM
     driver-class-name: org.postgresql.Driver
 
   jpa:
